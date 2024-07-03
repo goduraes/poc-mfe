@@ -1,0 +1,14 @@
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: calc(100vh - 49px);
+  font-family: sans-serif;
+}
+
+.home span {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #000;
+}
